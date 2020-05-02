@@ -35,7 +35,7 @@ function App() {
 
       </div>
       <div class="content">
-        <h2 class="animated rubberBand delay-5s"> Reach me by  <a href="mailto:element11sodium@gmail.com"> email </a> and check out my  <a href="https://github.com/sodiumkid"> github </a></h2>
+        <h2 class="animated bounce delay-5s"> Reach me by  <a href="mailto:element11sodium@gmail.com"> email </a> and check out my  <a href="https://github.com/sodiumkid"> github </a></h2>
       </div>
 
     </div>

@@ -18,18 +18,19 @@
   padding: 0px;
 }
 
-.content h1 {
-  font-size: 40pt;
+.content h2 {
+  font-size: 30pt;
   margin: 0px;
 }
 
 .title h1 {
-  font-size: 100pt;
+  font-size: 110pt;
   margin: 0px;
 }
 
-.title h3 {
-  margin: 0px;
+.title h3{
+  font-size: 20pt;
+  margin-top: -25px;
 }
 
 * {
